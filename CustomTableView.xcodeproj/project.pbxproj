@@ -14,6 +14,10 @@
 		E948283D1EB5D45400F2D501 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E948283B1EB5D45400F2D501 /* LaunchScreen.storyboard */; };
 		E94828481EB5D45400F2D501 /* CustomTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94828471EB5D45400F2D501 /* CustomTableViewTests.swift */; };
 		E94828531EB5D45400F2D501 /* CustomTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94828521EB5D45400F2D501 /* CustomTableViewUITests.swift */; };
+		E94828641EB5D5EE00F2D501 /* dog2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E94828601EB5D5EE00F2D501 /* dog2.jpg */; };
+		E94828651EB5D5EE00F2D501 /* dog1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E94828611EB5D5EE00F2D501 /* dog1.jpg */; };
+		E94828661EB5D5EE00F2D501 /* cat2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E94828621EB5D5EE00F2D501 /* cat2.jpg */; };
+		E94828671EB5D5EE00F2D501 /* cat1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E94828631EB5D5EE00F2D501 /* cat1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		E948284E1EB5D45400F2D501 /* CustomTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E94828521EB5D45400F2D501 /* CustomTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewUITests.swift; sourceTree = "<group>"; };
 		E94828541EB5D45400F2D501 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E94828601EB5D5EE00F2D501 /* dog2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog2.jpg; sourceTree = "<group>"; };
+		E94828611EB5D5EE00F2D501 /* dog1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog1.jpg; sourceTree = "<group>"; };
+		E94828621EB5D5EE00F2D501 /* cat2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat2.jpg; sourceTree = "<group>"; };
+		E94828631EB5D5EE00F2D501 /* cat1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +107,10 @@
 			children = (
 				E94828321EB5D45400F2D501 /* AppDelegate.swift */,
 				E94828341EB5D45400F2D501 /* ViewController.swift */,
+				E94828601EB5D5EE00F2D501 /* dog2.jpg */,
+				E94828611EB5D5EE00F2D501 /* dog1.jpg */,
+				E94828621EB5D5EE00F2D501 /* cat2.jpg */,
+				E94828631EB5D5EE00F2D501 /* cat1.jpg */,
 				E94828361EB5D45400F2D501 /* Main.storyboard */,
 				E94828391EB5D45400F2D501 /* Assets.xcassets */,
 				E948283B1EB5D45400F2D501 /* LaunchScreen.storyboard */,
@@ -233,8 +245,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				E948283D1EB5D45400F2D501 /* LaunchScreen.storyboard in Resources */,
+				E94828661EB5D5EE00F2D501 /* cat2.jpg in Resources */,
+				E94828651EB5D5EE00F2D501 /* dog1.jpg in Resources */,
+				E94828671EB5D5EE00F2D501 /* cat1.jpg in Resources */,
 				E948283A1EB5D45400F2D501 /* Assets.xcassets in Resources */,
 				E94828381EB5D45400F2D501 /* Main.storyboard in Resources */,
+				E94828641EB5D5EE00F2D501 /* dog2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
